@@ -20,6 +20,21 @@ https://spaj7468-cell.github.io/an-unknown-project/
 - Copyable code examples and comparison tables
 - Mobile navigation and reduced-motion support
 
+## Expanded documentation
+
+The growing handbook now includes dedicated chapters on:
+
+- [Accessibility and web performance](docs/web/accessibility-performance.md)
+- [Application security](docs/engineering/security-handbook.md)
+- [Testing, debugging, and reliability](docs/engineering/testing-debugging.md)
+- [SQL and PostgreSQL](docs/data/sql-and-postgresql.md)
+- [Git and collaboration](docs/tooling/git-and-collaboration.md)
+- [GitHub Pages deployment and troubleshooting](docs/tooling/github-pages-deployment.md)
+- [Complete documentation index](docs/README.md)
+- [Master knowledge map](docs/STRUCTURE.md)
+
+These chapters use links to primary sources such as MDN, OWASP, PostgreSQL documentation, Pro Git, and GitHub Docs. Source links are included within the relevant chapter so readers can verify details and check version-specific changes.
+
 ## Quality principles
 
 1. Explain **what**, **why**, **how**, and **when not to use** a technique.
