@@ -109,6 +109,19 @@ AN UNKNOWN PROJECT
     └── Checklists and project templates
 ```
 
+## Implemented deep-dive chapters
+
+The map is a target hierarchy, not a claim that every branch is complete. These focused chapters now provide expanded practical guidance:
+
+- Web: [Accessibility and performance](web/accessibility-performance.md)
+- Engineering: [Security handbook](engineering/security-handbook.md)
+- Engineering: [Testing, debugging, and reliability](engineering/testing-debugging.md)
+- Data: [SQL and PostgreSQL fundamentals](data/sql-and-postgresql.md)
+- Tooling: [Git and collaboration](tooling/git-and-collaboration.md)
+- Tooling: [GitHub Pages deployment](tooling/github-pages-deployment.md)
+
+Browse [the documentation index](README.md) for the full set of current chapter links and source policy.
+
 ## How to read the tree
 
 The numbering is conceptual, not a requirement to learn every section linearly. Readers can follow a goal-based path, but language-specific chapters should link back to the foundations they depend on and forward to the relevant engineering disciplines.
