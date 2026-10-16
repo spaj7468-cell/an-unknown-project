@@ -44,6 +44,7 @@ const searchable=[
 ['Testing and debugging','testing','Unit tests, integration tests, reproduce, diagnose, regression'],
 ['Design patterns','patterns','Adapter, Strategy, Observer, Factory, Repository, dependency injection'],
 ['Glossary','glossary','Definitions, API, ABI, concurrency, latency, runtime'],
+['Developer discipline map','discipline-map','HTML CSS JavaScript TypeScript backend database languages hierarchy project structure'],
 ['Project roadmap','roadmap','Knowledge base roadmap and future chapters']
 ];
 function renderResults(query){
