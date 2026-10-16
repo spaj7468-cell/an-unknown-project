@@ -1,0 +1,2 @@
+/* Design tokens: keep the visual system consistent in one place. */
+:root{color-scheme:dark;--bg:#090a0d;--panel:#101216;--panel2:#15181e;--line:#252932;--text:#f2f3f5;--muted:#9ba2ae;--soft:#cbd0d9;--accent:#dce4ff;--blue:#9cb8ff;--green:#a8e6c0;--radius:15px;--sidebar:268px;--right:230px}
