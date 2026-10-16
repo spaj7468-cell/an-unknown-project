@@ -46,3 +46,16 @@ These chapters use links to primary sources such as MDN, OWASP, PostgreSQL docum
 ## Scope note
 
 This is the initial documentation foundation, not an exhaustive reference for every programming language, framework, library, or API. The knowledge base should grow through verified, version-aware chapters.
+
+
+## Expanded handbook chapters
+
+- [Documentation index](docs/README.md)
+- [Accessibility and web performance](docs/web/accessibility-performance.md)
+- [Application security](docs/engineering/security-handbook.md)
+- [Testing, debugging, and reliability](docs/engineering/testing-debugging.md)
+- [SQL and PostgreSQL](docs/data/sql-and-postgresql.md)
+- [Git and collaboration](docs/tooling/git-and-collaboration.md)
+- [GitHub Pages deployment](docs/tooling/github-pages-deployment.md)
+
+Each deep-dive chapter links to primary documentation such as MDN, OWASP, PostgreSQL, Pro Git, and GitHub Docs. This is a growing handbook, not a claim that every language or framework is fully documented.
