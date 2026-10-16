@@ -1,2 +1,4 @@
-/* Design tokens: shared color, spacing and typography values. */
-:root{color-scheme:dark;--bg:#090a0d;--panel:#101216;--panel2:#15181e;--line:#252932;--text:#f2f3f5;--muted:#9ba2ae;--soft:#cbd0d9;--accent:#dce4ff;--blue:#9cb8ff;--green:#a8e6c0;--radius:15px;--sidebar:268px;--right:230px}
+/* Design tokens used by the documentation UI. */
+:root{--bg:#090a0d;--panel:#101216;--panel2:#15181e;--line:#252932;--text:#f2f3f5;--muted:#9ba2ae;--soft:#cbd0d9;--accent:#dce4ff;--blue:#9cb8ff;--green:#a8e6c0;--radius:15px;--sidebar:268px;--right:230px}
+.hierarchy{display:grid;gap:8px;margin:18px 0}.hierarchy-node{padding:15px 17px;border:1px solid #303641;border-radius:10px;background:linear-gradient(145deg,#171b22,#101216);display:flex;flex-direction:column;gap:4px;min-width:0}.hierarchy-node b{font-size:13px;color:#eef1f7}.hierarchy-node span{font-size:11px;line-height:1.7;color:#9ca5b3}.hierarchy-connector{text-align:center;color:#aab8e6;font-size:11px;padding:2px}.hierarchy-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}.hierarchy-grid .hierarchy-node{height:100%}.hierarchy code{font-family:ui-monospace,monospace}
+@media(max-width:760px){.hierarchy-grid{grid-template-columns:1fr}.hierarchy-node{padding:13px}}
