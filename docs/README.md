@@ -41,3 +41,18 @@ Every substantial chapter should answer:
 ## Current status
 
 The website currently exposes a starter set of reading pages. The directory tree below defines the intended scalable structure; not every topic is fully written yet.
+
+
+## Newly expanded language guides
+
+- [Python practical guide](languages/python-practical-guide.md) — data model, exceptions, environments, type hints, testing, and concurrency choices.
+- [JavaScript and TypeScript practical guide](languages/javascript-typescript-guide.md) — runtime boundaries, async code, modules, type safety, and browser security.
+
+## Additional engineering deep dives
+
+- [Accessibility and performance](web/accessibility-performance.md)
+- [Application security handbook](engineering/security-handbook.md)
+- [Testing, debugging, and reliability](engineering/testing-debugging.md)
+- [SQL and PostgreSQL](data/sql-and-postgresql.md)
+- [Git and collaboration](tooling/git-and-collaboration.md)
+- [GitHub Pages deployment](tooling/github-pages-deployment.md)
