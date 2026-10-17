@@ -1,2 +1,4 @@
-/* Shared design tokens. Keep palette and sizing values centralized. */
-:root{--bg:#090a0d;--panel:#101216;--panel2:#15181e;--line:#252932;--text:#f2f3f5;--muted:#9ba2ae;--soft:#cbd0d9;--accent:#dce4ff;--blue:#9cb8ff;--green:#a8e6c0;--radius:15px;--sidebar:268px;--right:230px}
+/* Shared design tokens — значения QKC (монохром), имена сохранены. */
+:root{--bg:#08080a;--panel:#111114;--panel2:#17171b;--line:rgba(255,255,255,.10);--text:#f4f4f5;--muted:#8b8b93;--soft:#c8c8cd;--accent:#f4f4f5;--blue:#c8c8cd;--green:#8b8b93;--radius:15px;--sidebar:268px;--right:230px;
+--font:-apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+--font-d:"Space Grotesk",-apple-system,"Inter","Helvetica Neue",Arial,sans-serif}
