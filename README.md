@@ -59,3 +59,10 @@ This is the initial documentation foundation, not an exhaustive reference for ev
 - [GitHub Pages deployment](docs/tooling/github-pages-deployment.md)
 
 Each deep-dive chapter links to primary documentation such as MDN, OWASP, PostgreSQL, Pro Git, and GitHub Docs. This is a growing handbook, not a claim that every language or framework is fully documented.
+
+## Авторы
+
+| Роль | Автор | Профиль |
+|------|-------|---------|
+| Автор | **telrino** | <https://vk.ru/telrino> |
+| Соавтор | **Бро** | <https://vk.ru/id920684081> |
